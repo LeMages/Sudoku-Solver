@@ -56,8 +56,9 @@ Copier le code
     [2, 3, 9, 8, 6, 4, 1, 7, 5],
     [1, 6, 7, 3, 9, 5, 4, 9, 2]
 ]
-Contributing 🧑‍💻
+
+# Contributing 🧑‍💻
 Feel free to fork the repo, make improvements, or experiment with different algorithms! If you find bugs or have suggestions, please open an issue or submit a pull request.
 
-About the Author 👨‍💻
-I'm Kanason, a digital engineering student based in Paris with a passion for backend development. I love coding in Rust, Python, HTML, CSS, JavaScript, C, and Java. Currently, I'm working on an exciting project in Rust, pushing the limits of what can be done with modern programming languages.
+# About the Author 👨‍💻
+I'm **Kanason**, a digital engineering student based in Paris with a passion for **backend development**. I love coding in **Rust**, **Python**, **HTML**, **CSS**, **JavaScript**, **C**, and **Java**. 
