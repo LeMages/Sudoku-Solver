@@ -7,7 +7,7 @@ Welcome to **Sudoku Solver**, a Python-based project to solve Sudoku puzzles usi
 - **Customizable puzzles**: Just modify the input grid to solve any Sudoku problem.
 - Simple, easy-to-read code for anyone interested in learning **algorithm design** and **Python**.
 
-Installation 💻
+# Installation 💻
 Clone the repository:
 
 bash
@@ -37,10 +37,10 @@ grille = [
 ]
 The goal is to fill the grid following the Sudoku rules, ensuring that each number from 1 to 9 appears only once in each row, column, and 3x3 sub-grid.
 
-How It Works 🛠️
+# How It Works 🛠️
 The backtracking algorithm recursively tries each possible number in each empty cell (0s) and checks for Sudoku rule violations. If a violation occurs, the algorithm backtracks to the previous step and tries a different number. This process continues until the puzzle is solved or determined unsolvable.
 
-Example Output 📈
+# Example Output 📈
 Given the grid above, the solution would look like this:
 
 python
