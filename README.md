@@ -9,21 +9,14 @@ Welcome to **Sudoku Solver**, a Python-based project to solve Sudoku puzzles usi
 
 # Installation 💻
 Clone the repository:
-
-bash
-Copier le code
 git clone https://github.com/Kanason/sudoku-solver.git
 cd sudoku-solver
+
 Run the solver:
-
-bash
-Copier le code
 python sudoku_solver.py
-Usage 🚀
-You can modify the grid directly in the code or supply it through a different input method. Here's a basic example grid:
 
-python
-Copier le code
+# Usage 🚀
+You can modify the grid directly in the code or supply it through a different input method. Here's a basic example grid:
 grille = [
     [0, 2, 0, 6, 0, 8, 0, 0, 0],
     [5, 8, 0, 0, 0, 9, 7, 0, 0],
@@ -42,9 +35,6 @@ The backtracking algorithm recursively tries each possible number in each empty 
 
 # Example Output 📈
 Given the grid above, the solution would look like this:
-
-python
-Copier le code
 [
     [4, 2, 3, 6, 7, 8, 9, 5, 1],
     [5, 8, 1, 2, 3, 9, 7, 4, 6],
