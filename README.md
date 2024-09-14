@@ -9,7 +9,7 @@ Welcome to **Sudoku Solver**, a Python-based project to solve Sudoku puzzles usi
 
 # Installation 💻
 Clone the repository:
-- git clone https://github.com/Kanason/sudoku-solver.git
+- git clone [https://github.com/Kanason/sudoku-solver.git](https://github.com/LeMages/Sudoku-Solver.git)
 - cd sudoku-solver
 
 Run the solver:
