@@ -1,11 +1,12 @@
 # Sudoku Solver 🧩
-Welcome to Sudoku Solver, a Python-based project to solve Sudoku puzzles using a backtracking algorithm. Whether you're stuck on a Sudoku puzzle or just want to have fun with coding, this project has got you covered!
+Welcome to **Sudoku Solver**, a Python-based project to solve Sudoku puzzles using a backtracking algorithm. Whether you're stuck on a Sudoku puzzle or just want to have fun with coding, this project has got you covered!
 
-Features 🌟
-Solve any valid 9x9 Sudoku puzzle with missing values (represented as 0s).
-Uses a backtracking algorithm for efficient and recursive solving.
-Customizable puzzles: Just modify the input grid to solve any Sudoku problem.
-Simple, easy-to-read code for anyone interested in learning algorithm design and Python.
+# Features 🌟
+- **Solve any valid 9x9 Sudoku puzzle** with missing values (represented as 0s).
+- Uses a **backtracking algorithm** for efficient and recursive solving.
+- **Customizable puzzles**: Just modify the input grid to solve any Sudoku problem.
+- Simple, easy-to-read code for anyone interested in learning **algorithm design** and **Python**.
+
 Installation 💻
 Clone the repository:
 
