@@ -13,7 +13,7 @@ Clone the repository:
 - cd sudoku-solver
 
 Run the solver:
-python sudoku_solver.py
+- python sudoku_solver.py
 
 # Usage 🚀
 You can modify the grid directly in the code or supply it through a different input method. Here's a basic example grid:
